@@ -270,8 +270,7 @@ margin-bottom: 8px;
 
 .section-team {
     background-color: #F4F4FD;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding: 120px 0;
 }
 
 .section-title {
@@ -334,7 +333,6 @@ margin-bottom: 8px;
     gap: 24px;
     width: 264px;
     margin-top: 8px;
-    padding-bottom: 32px;
     align-items: center;
 }
 
@@ -608,7 +606,7 @@ letter-spacing: 0.02em;
   .subscribe-button:focus {
     background-color: #404bbf;
   }
-  
+
   .subscribe-icon {
     display: flex;
     fill: #ffffff;
