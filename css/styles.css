@@ -771,7 +771,7 @@ letter-spacing: 0.02em;
     fill: #2e2f42;
 }
 
-.user-comment {
+.input-comment-form {
     width: 100%;
     height: 120px;
     border: 1px solid rgba(46, 47, 66, 0.4);
