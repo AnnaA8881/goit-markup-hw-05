@@ -830,10 +830,10 @@ letter-spacing: 0.02em;
     border: 1px solid #4d5ae5;
   }
 
-  .conditions-container:focus + .privacy-icon > .privacy-icon {
+  .conditions-container:focus + .privacy-label > .privacy-icon {
     border: 1px solid #4d5ae5;
   }
-  .conditions-container:checked + .privacy-icon > .privacy-icon {
+  .conditions-container:checked + .privacy-label > .privacy-icon {
     background-color: #404bbf;
     border: none;
     fill: #f4f4fd;
